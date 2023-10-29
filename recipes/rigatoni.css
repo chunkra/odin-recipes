@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    font-size: 75px;
+}
+
+ul li::before {
+    content: "\2022";
+    color: red;
+    font-weight: bold;
+    display: inline-block; 
+    width: 1em;
+    margin-left: -1em;
+    /* This changes the bullets from black to red*/
+  }
+
+  img {
+    display: block;
+    margin: auto;
+    width: 100%;
+  }
+
+ .emphasis {
+    
+    font-weight: bold;
+
+ }
+
+ .center {
+   width: 50%;
+   margin: auto;
+
+
+ }

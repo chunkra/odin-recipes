@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    line-height: 30px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 100%;
+  }
+
+
+.center {
+    width: 75%;
+   margin: auto;
+
+}
+
+.bold {
+    font-weight: 700;
+
+}

@@ -1,0 +1,23 @@
+h1 {
+    color: blue;
+    text-align: center;
+    font-size: 100px;
+    background-color: orange;
+
+}
+ul #receip-links {
+    text-align: justify;
+   
+}
+#receip-links li {
+    display: inline-block;
+
+    
+
+}
+
+img {
+
+    width: 300px;
+    height: auto;
+}
